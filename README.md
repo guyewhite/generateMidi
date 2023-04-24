@@ -45,16 +45,16 @@ You can contact me via my website at [gelvinwhite.com](https://gelvinwhite.com/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/guyewhite/CSVto3Dstrings.svg?style=for-the-badge
-[contributors-url]: https://github.com/guyewhite/CSVto3Dstrings/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/guyewhite/CSVto3Dstrings.svg?style=for-the-badge
-[forks-url]: https://github.com/guyewhite/CSVto3Dstrings/network/members
-[stars-shield]: https://img.shields.io/github/stars/guyewhite/CSVto3Dstrings.svg?style=for-the-badge
-[stars-url]: https://github.com/guyewhite/CSVto3Dstrings/stargazers
-[issues-shield]: https://img.shields.io/github/issues/guyewhite/CSVto3Dstrings.svg?style=for-the-badge
-[issues-url]: https://github.com/guyewhite/CSVto3Dstrings/issues
-[license-shield]: https://img.shields.io/github/license/guyewhite/CSVto3Dstrings.svg?style=for-the-badge
-[license-url]: https://github.com/guyewhite/CSVto3Dstrings/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/guyewhite/generateMidi.svg?style=for-the-badge
+[contributors-url]: https://github.com/guyewhite/generateMidi/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/guyewhite/generateMidi.svg?style=for-the-badge
+[forks-url]: https://github.com/guyewhite/generateMidi/network/members
+[stars-shield]: https://img.shields.io/github/stars/guyewhite/generateMidi.svg?style=for-the-badge
+[stars-url]: https://github.com/guyewhite/generateMidi/stargazers
+[issues-shield]: https://img.shields.io/github/issues/guyewhite/generateMidi.svg?style=for-the-badge
+[issues-url]: https://github.com/guyewhite/generateMidi/issues
+[license-shield]: https://img.shields.io/github/license/guyewhite/generateMidi.svg?style=for-the-badge
+[license-url]: https://github.com/guyewhite/generateMidi/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
