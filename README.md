@@ -41,7 +41,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-You can contact me via my website at [www.gelvinwhite.com](https://www.gelvinwhite.com/).
+You can contact me via my website at [gelvinwhite.com](https://gelvinwhite.com/).
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
